@@ -1,172 +1,157 @@
 <div align="center">
+  <img src="./assets/android-chrome-512x512.png" alt="Logo" width="100" height="100">
 
-# 💼 Abhijeet's Portfolio Website
+  # ⚡ Zaheer's Portfolio
 
+  <p align="center">
+    A modern, high-performance personal portfolio website showcasing my journey as an Applied AI/ML Engineer.
+    <br />
+    <a href="https://mdzaheerjk.github.io/Portfolio/"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://mdzaheerjk.github.io/Portfolio/">View Demo</a>
+    ·
+    <a href="https://github.com/mdzaheerjk/Portfolio/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/mdzaheerjk/Portfolio/issues">Request Feature</a>
+  </p>
+  
+  ![GitHub stars](https://img.shields.io/github/stars/mdzaheerjk/Portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/mdzaheerjk/Portfolio?style=social)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/mdzaheerjk/Portfolio)
+  ![License](https://img.shields.io/github/license/mdzaheerjk/Portfolio)
 </div>
-
-A modern, responsive personal portfolio website showcasing my work as a full-stack web developer. Built with HTML, CSS, JavaScript, Bootstrap, GSAP, and integrated with a stunning animated particle background.
 
 ---
 
-## 🚀 Features
+## 📖 About The Project
 
-### ✨ **Core Features**
-- Responsive design for all screen sizes  
-- Interactive hamburger menu for mobile view  
-- Hero section with animated name using GSAP  
-- Snowfall particle background using [particles.js](http://vincentgarreau.com/particles.js/#snow)  
-- Stylish "View Projects" button with neon glow effect  
-- Smooth scroll and clean layout  
-- Custom cursor implementation
-- Animated download button for resume
+This portfolio is a showcase of my work, skills, and professional journey. Built with a focus on **performance**, **aesthetics**, and **user experience**, it features a responsive design, smooth GSAP animations, and a dynamic particle background.
 
-### 📧 **Contact Form**
-- Functional contact form with Formspree integration
-- Form validation and user feedback
-- Loading states and success/error messages
-- Professional styling with hover effects
-- Contact information display with icons
+It serves as a central hub for my projects, including **BookHive**, **ATS Resume Checker**, and **Boost AI**, demonstrating my expertise in Full Stack Development and AI/ML.
 
-### ⚡ **Performance Optimizations**
-- Lazy loading for images
-- Reduced motion support for accessibility
-- Optimized animations with `will-change` and `contain`
-- Service Worker for offline functionality
-- PWA (Progressive Web App) support
-- Critical CSS optimization
-- Font loading optimization
+### 🌟 Key Features
 
-### 🐙 **GitHub Integration**
-- Live GitHub statistics (repos, stars, followers, commits)
-- Recent activity feed with event types
-- Most used programming languages display
-- Real-time data from GitHub API
-- Fallback data for offline viewing
-
-### 🎨 **Enhanced UI/UX**
-- Dark theme with custom color scheme
-- Smooth animations and transitions
-- Interactive elements with hover effects
-- Accessibility improvements
-- Print-friendly styles
+*   **🎨 Immersive Design**: Dark-themed UI with neon accents, glassmorphism effects, and a custom particle background.
+*   **🚀 High Performance**: Optimized for speed with lazy loading, critical CSS, and PWA capabilities.
+*   **📱 Fully Responsive**: Seamless experience across mobile, tablet, and desktop devices.
+*   **✨ Smooth Animations**: Powered by **GSAP** (GreenSock Animation Platform) for scroll triggers and text reveals.
+*   **🐙 Live GitHub Stats**: Real-time integration with the GitHub API to display repository stats and activity.
+*   **📧 Functional Contact Form**: Integrated with **Formspree** for reliable email delivery.
+*   **📥 PWA Support**: Installable as a native-like app with offline capabilities.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – Semantic markup with accessibility features
-- **CSS3** – Custom styling + Bootstrap 5 + Tailwind CSS
-- **JavaScript** – Core interactivity, animations, and API integrations
-- **GSAP** – Advanced animations and scroll triggers
-- **Particles.js** – Interactive particle backgrounds
-- **Formspree** – Contact form backend
-- **GitHub API** – Live coding activity integration
-- **Service Worker** – Offline functionality and caching
+This project is built using the following technologies:
+
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Styling** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Animations** | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Particles.js](https://img.shields.io/badge/Particles.js-000000?style=for-the-badge) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-## 📱 PWA Features
+## 📸 Screenshots
 
-- **Installable** – Can be installed as a native app
-- **Offline Support** – Works without internet connection
-- **Fast Loading** – Optimized caching and performance
-- **App-like Experience** – Full-screen mode and native feel
-
----
-
-## 📸 Live Preview
-
-👉 [Live Demo](https://abhijeetbhale.github.io/Portfolio/)
-
-## 📸 Screenshot
-
-![Portfolio Website](https://github.com/abhijeetBhale/Portfolio/blob/4153aac777d27ad5cc2aaa4ded9a3b347b8c8d9e/assets/portfolio-ss.png)
+![Portfolio Preview](https://github.com/mdzaheerjk/Portfolio/blob/main/assets/portfolio-ss.png?raw=true)
 
 ---
 
 ## 🚀 Getting Started
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/abhijeetBhale/Portfolio.git
-   cd Portfolio
-   ```
+To get a local copy up and running, follow these simple steps.
 
-2. **Open in browser**
-   ```bash
-   # Using Python
-   python -m http.server 8000
-   
-   # Using Node.js
-   npx serve .
-   
-   # Or simply open index.html in your browser
-   ```
+### Prerequisites
 
-3. **Customize**
-   - Update personal information in `index.html`
-   - Modify colors in `styles.css`
-   - Add your own projects and content
-   - Update GitHub username in `script.js`
+*   Git
+*   A code editor (VS Code recommended)
+*   Basic understanding of HTML/CSS/JS
+
+### Installation
+
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/mdzaheerjk/Portfolio.git
+    cd Portfolio
+    ```
+
+2.  **Run locally**
+    You can use any static file server.
+    
+    *   **Using Python:**
+        ```bash
+        python -m http.server 8000
+        ```
+    *   **Using Node.js (serve):**
+        ```bash
+        npx serve .
+        ```
+    *   **Or simply open `index.html` in your browser.**
 
 ---
 
-## 📁 Project Structure
+## ⚙️ Configuration
 
-```
+### 📧 Contact Form Setup
+This portfolio uses **Formspree** for the contact form. 
+1.  Go to [Formspree](https://formspree.io/) and create a new form.
+2.  Open `script.js`.
+3.  Replace the URL in the `fetch` call with your unique Formspree endpoint:
+    ```javascript
+    const response = await fetch('https://formspree.io/f/YOUR_FORM_ID', { ... });
+    ```
+
+### 🐙 GitHub API Setup
+To display your own GitHub stats:
+1.  Open `script.js`.
+2.  Update the `username` variable at the top of the GitHub section:
+    ```javascript
+    const username = 'mdzaheerjk'; // Replace with your GitHub username
+    ```
+
+---
+
+## � Project Structure
+
+```text
 Portfolio/
-├── index.html          # Main HTML file
-├── styles.css          # Custom styles and animations
-├── script.js           # JavaScript functionality
-├── manifest.json       # PWA manifest
-├── sw.js              # Service Worker
-├── assets/            # Images and media files
-└── README.md          # Project documentation
+├── assets/             # Images, icons, and static assets
+├── index.html          # Main structure
+├── script.js           # Logic, animations, and API calls
+├── styles.css          # Custom styling and overrides
+├── sw.js               # Service Worker for PWA
+├── manifest.json       # PWA Manifest
+└── README.md           # Documentation
 ```
-
----
-
-## 🔧 Configuration
-
-### Contact Form
-Update the Formspree endpoint in `script.js`:
-```javascript
-const response = await fetch('https://formspree.io/f/YOUR_FORM_ID', {
-```
-
-### GitHub Integration
-Update your GitHub username in `script.js`:
-```javascript
-const username = 'YOUR_GITHUB_USERNAME';
-```
-
----
-
-## 📈 Performance
-
-- **Lighthouse Score**: 95+ (Performance, Accessibility, Best Practices, SEO)
-- **First Contentful Paint**: < 1.5s
-- **Largest Contentful Paint**: < 2.5s
-- **Cumulative Layout Shift**: < 0.1
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
 
 ---
 
-## 📄 License
+## � Contact
 
-This project is open source and available under the [MIT License](LICENSE).
+**Zaheer** - Applied AI/ML Engineer
+
+*   � **Email**: [zaheerxaiml@gmail.com](mailto:zaheerxaiml@gmail.com)
+*   👔 **LinkedIn**: [linkedin.com/in/md-zaheerjk](https://www.linkedin.com/in/md-zaheerjk)
+*   🐙 **GitHub**: [github.com/mdzaheerjk](https://github.com/mdzaheerjk)
 
 ---
 
-## 📞 Contact
-
-- **Email**: abhijeetbhale7@gmail.com
-- **LinkedIn**: [Abhijeet Bhale](https://www.linkedin.com/in/abhijeetbhale7)
-- **GitHub**: [@abhijeetBhale](https://github.com/abhijeetBhale)
-- **Instagram**: [@isocyanideisgood](https://www.instagram.com/isocyanideisgood)
-
+<div align="center">
+  <p>Made with ❤️ by Zaheer</p>
+</div>
